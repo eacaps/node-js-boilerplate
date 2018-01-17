@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate",
+  "version": "0.0.1",
+  "description": "nodejs boilerplate",
+  "main": "src/main.js",
+  "scripts": {
+    "main": "node src/main.js",
+    "test": "jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eacaps/node-js-boilerplate.git"
+  },
+  "author": "eacaps",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/eacaps/node-js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/eacaps/node-js-boilerplate#readme",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
